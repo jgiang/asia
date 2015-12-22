@@ -10,6 +10,7 @@ tags: [itinerary]
 Please send any tips/suggestions to <a href="mailto:{{ site.social.email}}">jasminegiang@gmail.com</a> 
 
 ---
+
 #### Depart LAX Dec 24th 12:10 am
 
 ### 3 nights in Hong Kong
