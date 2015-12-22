@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /overview
+permalink: /overview/index.html
 title: Overview of Trip
 tags: [itinerary]
 ---
