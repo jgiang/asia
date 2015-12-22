@@ -5,15 +5,15 @@ title: Overview of Trip
 tags: [itinerary]
 ---
 
-## Itinerary
+# Itinerary
 
 Please send any tips/suggestions to <a href="mailto:{{ site.social.email}}">jasminegiang@gmail.com</a> 
 
 ---
 
-#### Depart LAX Dec 24th 12:10 am
+### Depart LAX Dec 24th 12:10 am
 
-### 3 nights in Hong Kong
+### **3 nights in Hong Kong**
 Arrive: Dec 25th 7:40 am
 
 *Novotel Nathan Road Kowloon*
@@ -29,7 +29,7 @@ Arrive: Dec 25th 7:40 am
 
 Depart: Dec 28th 10:00 am
 
-### 6 nights in Taiwan
+### **6 nights in Taiwan**
 Arrive: Dec 28th 11:50 am
 
 - Taipei -> Sun Moon Lake
@@ -74,12 +74,12 @@ Depart: Jan 2nd 1:20 pm
 
 *Layover in Hong Kong 3:25 - 4:50 pm*
 
-### 11 nights in Vietnam
+### **11 nights in Vietnam**
 Arrive: Jan 2nd 6:30 pm
 
 Depart: Jan 14th 9:55 am
 
 *Layover in Hong Kong 12:40 - 4:35 pm*
 
-#### Arrive LAX Jan 14th 1:15 pm
+### Arrive LAX Jan 14th 1:15 pm
 
