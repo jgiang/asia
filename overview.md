@@ -16,7 +16,7 @@ Please send any tips/suggestions to <a href="mailto:{{ site.social.email}}">jasm
 ### **3 nights in Hong Kong**
 Arrive: Dec 25th 7:40 am
 
-*Novotel Nathan Road Kowloon*
+*Eaton Hotel*
 
 - Hong Kong/Kowloon
     - Victoria Peak
