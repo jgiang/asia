@@ -17,15 +17,21 @@ Please send any tips/suggestions to <a href="mailto:{{ site.social.email}}">jasm
 Arrive: Dec 25th 7:40 am
 
 *Eaton Hotel*
-
-- Hong Kong/Kowloon
+- [Explore Kowloon/Nathan Road](http://jmoney.rocks/asia/hong%20kong/hong-kong-1/)
+    - Jade Market
+    - Australia Dairy Co
+    - Temple Street Night Market
+- [Hong Kong tour](http://jmoney.rocks/asia/hong%20kong/hong-kong-2/)
     - Victoria Peak
     - Sky Terrace
+    - Repulse Bay
     - Stanley Market
-- Lantau Island/Tai O
-    - Tung Chung
-    - Lantau Island
-    - Kowloon
+    - Aberdeen
+    - Causeway Bay/Times Square
+    - Ladies' Market
+- [Lantau Island/Big Buddha](http://jmoney.rocks/asia/hong%20kong/hong-kong-3/)
+    - Tian Tan Buddha
+    - Symphony of Lights
 
 Depart: Dec 28th 10:00 am
 
