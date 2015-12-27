@@ -27,7 +27,7 @@ system and the rest of the family waited in the "economy class" line with everyo
 
 It had been so long since I traveled through an international terminal. They're so much nicer and
 more fun than the domestic ones. We found a "Starbucks Evenings" that serves wine, but didn't have
-the time to enjoy a glass.
+the time to enjoy a glass. I wonder if I can use my free drink to get some wine on the way back!
 
 <figure class="half">
     <a href="{{ site.url }}/images/day01/starbucks-evenings.jpg"><img src="{{ site.url }}/images/day01/starbucks-evenings.jpg"></a>
