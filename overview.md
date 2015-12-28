@@ -28,7 +28,7 @@ Day 2 [Pt1](http://jmoney.rocks/asia/hong%20kong/hong-kong-2-pt1/)  &  [Pt2](htt
     
     - Victoria Peak
     - Sky Terrace
-    - Repulse Bay
+    - Repulse Bay/Tin Hau Temple
     - Stanley Market
     - Aberdeen
     - Causeway Bay/Times Square
