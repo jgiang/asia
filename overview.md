@@ -11,10 +11,10 @@ Please send any tips/suggestions to <a href="mailto:{{ site.social.email}}">jasm
 
 ---
 
-### Depart LAX Dec 24th 12:10 am
+### Depart LAX Dec 24th 12:14 am
 
 ### **3 nights in Hong Kong**
-Arrive: Dec 25th 7:40 am
+Arrive: Dec 25th 8:35 am
 
 *Eaton Hotel*
 
@@ -39,18 +39,15 @@ Day 2 [Pt1](http://jmoney.rocks/asia/hong%20kong/hong-kong-2-pt1/)  &  [Pt2](htt
     - Tian Tan Buddha
     - Symphony of Lights
 
-Depart: Dec 28th 10:00 am
+Depart: Dec 28th 10:02 am
 
 ### **6 nights in Taiwan**
-Arrive: Dec 28th 11:50 am
+Arrive: Dec 28th 11:30 am
 
-[Day 4]() Taipei -> Sun Moon Lake
+[Day 4](http://jmoney.rocks/asia/taiwan/taiwan-1/) Taipei -> Sun Moon Lake
 
-    - Taipei
     - Sun Moon Lake
     - Wenwu Temple
-    - Holy Monk Shrine
-    - Tse En Pagoda
     - Hot Springs at *Fleur de Chine Hotel*
 
 [Day 5]() Sun Moon Lake -> Kaohsiung
