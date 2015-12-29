@@ -50,7 +50,7 @@ Arrive: Dec 28th 11:30 am
     - Wenwu Temple
     - Hot Springs at *Fleur de Chine Hotel*
 
-[Day 5]() Sun Moon Lake -> Kaohsiung
+[Day 5] [Pt1](http://jmoney.rocks/asia/taiwan/taiwan-2-pt1/)  &  [Pt2](http://jmoney.rocks/asia//taiwan/taiwan-2-pt2/): Sun Moon Lake -> Kaohsiung
 
     - Jiji Railway Station
     - Fo Guang Shan Buddhist Monastery
