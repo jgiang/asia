@@ -58,7 +58,7 @@ Day 5 [Pt1](http://jmoney.rocks/asia/taiwan/taiwan-2-pt1/)  &  [Pt2](http://jmon
     - Liouho Night Market
     - *Grand Hi-Lai Hotel*
 
-[Day 6]() Kaohsiung -> Taitung
+[Day 6](http://jmoney.rocks/asia/taiwan/taiwan-3/) Kaohsiung -> Taitung
 
     - Kenting National Park
     - Oluanpi Light House
@@ -66,10 +66,10 @@ Day 5 [Pt1](http://jmoney.rocks/asia/taiwan/taiwan-2-pt1/)  &  [Pt2](http://jmon
     - Longpan Park
     - Hot Springs at *Hotel Royal Chihpen*
 
-[Day 7]() Taitung -> Hualien
+[Day 7](http://jmoney.rocks/asia/taiwan/taiwan-4/) Taitung -> Hualien
 
     - East Coast National Scenic Area
-    - Siaoyeliu
+    - Xiaoyeliu
     - Sansientai
     - Shihtiping (Stone Steps)
     - Marble Factory & Showroom

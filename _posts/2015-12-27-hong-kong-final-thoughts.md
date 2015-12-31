@@ -16,6 +16,9 @@ exploring the neighborhood, the food wasn't amazing enough to justify a trip bac
 was just too crowded and noisy for my liking. Some interesting parts of Hong Kong are detailed
 below:
 
+According to my brother, there are lots of cool cars that we don't get in the US. I definitely saw
+lots of cute hatchbacks.
+
 There is SO much shopping. On the big street our hotel was on, Nathan Road, there were dozens of
 huge shopping centers, many with the same exact stores merely a couple blocks apart. They are really into
 expensive watches and jewelry, which appear in most of the windows we walked by.
