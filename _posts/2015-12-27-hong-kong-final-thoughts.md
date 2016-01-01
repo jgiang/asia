@@ -13,8 +13,7 @@ mathjax:
 Having been to night markets in Taiwan, I was really bored at the ones in Hong Kong. The
 food-to-junk ratio was totally off! Other than seeing all the sights for the first time and
 exploring the neighborhood, the food wasn't amazing enough to justify a trip back to Hong Kong. It
-was just too crowded and noisy for my liking. Some interesting parts of Hong Kong are detailed
-below:
+was just too crowded and noisy for my liking. Some interesting parts of Hong Kong:
 
 According to my brother, there are lots of cool cars that we don't get in the US. I definitely saw
 lots of cute hatchbacks.

@@ -24,7 +24,7 @@ Arrive: Dec 25th 8:35 am
     - Australia Dairy Co
     - Temple Street Night Market
 
-Day 2 [Pt1](http://jmoney.rocks/asia/hong%20kong/hong-kong-2-pt1/)  &  [Pt2](http://jmoney.rocks/asia/hong%20kong/hong-kong-2-pt2/): Hong Kong tour
+[Day 2](http://jmoney.rocks/asia/hong%20kong/hong-kong-2/): Hong Kong tour
     
     - Victoria Peak
     - Sky Terrace
@@ -50,7 +50,7 @@ Arrive: Dec 28th 11:30 am
     - Wenwu Temple
     - Hot Springs at *Fleur de Chine Hotel*
 
-Day 5 [Pt1](http://jmoney.rocks/asia/taiwan/taiwan-2-pt1/)  &  [Pt2](http://jmoney.rocks/asia//taiwan/taiwan-2-pt2/): Sun Moon Lake -> Kaohsiung
+[Day 5](http://jmoney.rocks/asia/taiwan/taiwan-2/): Sun Moon Lake -> Kaohsiung
 
     - Jiji Railway Station
     - Fo Guang Shan Buddhist Monastery
@@ -66,27 +66,23 @@ Day 5 [Pt1](http://jmoney.rocks/asia/taiwan/taiwan-2-pt1/)  &  [Pt2](http://jmon
     - Longpan Park
     - Hot Springs at *Hotel Royal Chihpen*
 
-[Day 7](http://jmoney.rocks/asia/taiwan/taiwan-4/) Taitung -> Hualien
+[Day 7](http://jmoney.rocks/asia/taiwan/taiwan-4/) Taitung -> Taroko
 
     - East Coast National Scenic Area
     - Xiaoyeliu
     - Sansientai
-    - Shihtiping (Stone Steps)
     - Marble Factory & Showroom
-    - Taroko National Park
+    - Swallow Grotto
     - *Silks Place Taroko*
 
-[Day 8]() Hualien -> Taipei
+[Day 8](http://jmoney.rocks/asia/taiwan/taiwan-5/) Taroko -> Taipei
     
     - Taroko Gorge
-    - Tunnel of Nine Turns
-    - Tse Mu Bridge
-    - Swallow Grotto
-    - Changchun Temple
-    - Shakadang Trail
-    - Cingshui Cliff
+    - Cimu Bridge
+    - Eternal Spring Shrine
+    - Qingshui Cliff
     - Syue-Shan Long Tunnel
-    - *Monarch Skyline Hotel*
+    - *Hotel Relax*
 
 Depart: Jan 2nd 1:20 pm
 
