@@ -93,11 +93,11 @@ Arrive: Jan 2nd 6:30 pm
 
 *Silverland Central*
 
-[Day 9](): Dinner with family friends
+[Day 9](http://jmoney.rocks/asia/vietnam/vietnam-01/): Dinner with family friends
 
-[Day 10](): Exploring Saigon
+[Day 10](http://jmoney.rocks/asia/vietnam/vietnam-02/): Exploring Saigon
 
-[Day 11](): Saigon -> Vung Tau
+[Day 11](http://jmoney.rocks/asia/vietnam/vietnam-03/): Saigon -> Vung Tau
 
     - Christ of Vũng Tàu
     - *Lan Rung Hotel & Resort*
