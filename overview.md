@@ -44,7 +44,7 @@ Depart: Dec 28th 10:02 am
 ### **6 nights in Taiwan**
 Arrive: Dec 28th 11:30 am
 
-[Day 4](http://jmoney.rocks/asia/taiwan/taiwan-1/) Taipei -> Sun Moon Lake
+[Day 4](http://jmoney.rocks/asia/taiwan/taiwan-1/): Taipei -> Sun Moon Lake
 
     - Sun Moon Lake
     - Wenwu Temple
@@ -58,7 +58,7 @@ Arrive: Dec 28th 11:30 am
     - Liouho Night Market
     - *Grand Hi-Lai Hotel*
 
-[Day 6](http://jmoney.rocks/asia/taiwan/taiwan-3/) Kaohsiung -> Taitung
+[Day 6](http://jmoney.rocks/asia/taiwan/taiwan-3/): Kaohsiung -> Taitung
 
     - Kenting National Park
     - Oluanpi Light House
@@ -66,7 +66,7 @@ Arrive: Dec 28th 11:30 am
     - Longpan Park
     - Hot Springs at *Hotel Royal Chihpen*
 
-[Day 7](http://jmoney.rocks/asia/taiwan/taiwan-4/) Taitung -> Taroko
+[Day 7](http://jmoney.rocks/asia/taiwan/taiwan-4/): Taitung -> Taroko
 
     - East Coast National Scenic Area
     - Xiaoyeliu
@@ -75,7 +75,7 @@ Arrive: Dec 28th 11:30 am
     - Swallow Grotto
     - *Silks Place Taroko*
 
-[Day 8](http://jmoney.rocks/asia/taiwan/taiwan-5/) Taroko -> Taipei
+[Day 8](http://jmoney.rocks/asia/taiwan/taiwan-5/): Taroko -> Taipei
     
     - Taroko Gorge
     - Cimu Bridge
@@ -90,6 +90,18 @@ Depart: Jan 2nd 1:20 pm
 
 ### **11 nights in Vietnam**
 Arrive: Jan 2nd 6:30 pm
+
+*Silverland Central*
+
+[Day 9](): Dinner with family friends
+
+[Day 10](): Exploring Saigon
+
+[Day 11](): Saigon -> Vung Tau
+
+    - Christ of Vũng Tàu
+    - *Lan Rung Hotel & Resort*
+
 
 Depart: Jan 14th 9:55 am
 
