@@ -79,6 +79,7 @@ h6 {
 /* - Links - */
 a {
   text-decoration: none;
+  color: #c34343;
 }
 @include transition(color 0.2s);
 a:hover {
