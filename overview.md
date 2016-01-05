@@ -102,6 +102,7 @@ Arrive: Jan 2nd 6:30 pm
     - Christ of Vũng Tàu
     - *Lan Rung Hotel & Resort*
 
+[Day 12](http://jmoney.rocks/asia/vietnam/vietnam-04/): Vung Tau -> Mekong Delta -> Saigon
 
 Depart: Jan 14th 9:55 am
 
