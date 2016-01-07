@@ -115,6 +115,8 @@ Depart: Jan 7th 3:37 pm
 
 Arrive: Jan 7th 4:51 pm
 
+*Hoi An Travel Lodge Hotel*
+
 [Day 14](http://jmoney.rocks/asia/vietnam/vietnam-06/): Meeting family
 
 **??? nights in Da Nang**
