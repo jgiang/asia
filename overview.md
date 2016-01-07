@@ -89,6 +89,9 @@ Depart: Jan 2nd 1:20 pm
 *Layover in Hong Kong 3:25 - 4:50 pm*
 
 ### **11 nights in Vietnam**
+
+**5 nights in Saigon**
+
 Arrive: Jan 2nd 6:30 pm
 
 *Silverland Central*
@@ -103,6 +106,18 @@ Arrive: Jan 2nd 6:30 pm
     - *Lan Rung Hotel & Resort*
 
 [Day 12](http://jmoney.rocks/asia/vietnam/vietnam-04/): Vung Tau -> Mekong Delta -> Saigon
+
+[Day 13](http://jmoney.rocks/asia/vietnam/vietnam-05/): Last-minute meetups
+
+Depart: Jan 7th 3:37 pm
+
+**??? nights in Hoi An**
+
+Arrive: Jan 7th 4:51 pm
+
+[Day 14](http://jmoney.rocks/asia/vietnam/vietnam-06/): Meeting family
+
+**??? nights in Da Nang**
 
 Depart: Jan 14th 9:55 am
 
