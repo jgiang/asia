@@ -119,6 +119,8 @@ Arrive: Jan 7th 4:51 pm
 
 [Day 14](http://jmoney.rocks/asia/vietnam/vietnam-06/): Meeting family
 
+[Day 15](http://jmoney.rocks/asia/vietnam/vietnam-07/): Meeting more family
+
 **??? nights in Da Nang**
 
 Depart: Jan 14th 9:55 am
